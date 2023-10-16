@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6633FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+C.S.H's+GitHub!👋)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheonseunghyeon&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<img src="https://github-readme-stats.vercel.app/api?username=cheonseunghyeon&show_icons=true&theme=tokyonight">
-
 <div align=center>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -15,16 +11,12 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/React Native-673AB8?style=flat-square&logo=createreactapp&logoColor=white">
-        <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=reacttable&logoColor=white">
     </div>
   <div>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=style=flat&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/RTK-764ABC?style=style=flat&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=style=flat&logo=typescript&logoColor=white">
-            <img src="https://img.shields.io/badge/React Native-673AB8?style=flat-square&logo=createreactapp&logoColor=white">
-        <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=reacttable&logoColor=white">
+    <img src="https://img.shields.io/badge/React Native-673AB8?style=flat-square&logo=createreactapp&logoColor=white">
   </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -51,6 +43,8 @@
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+    </div>
+        <div>
         <img src="https://img.shields.io/badge/DBeaver-4D4D4D?style=flat-square&logo=dbeaver&logoColor=white">
         <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
         <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
@@ -83,3 +77,7 @@
     </div>
 </div><br>
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheonseunghyeon&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://github-readme-stats.vercel.app/api?username=cheonseunghyeon&show_icons=true&theme=tokyonight">
