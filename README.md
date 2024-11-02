@@ -3,7 +3,7 @@
 
 ## ✨ Front-end Stack ✨
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Css3-1572B6?style=style=flat&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
@@ -18,19 +18,17 @@
 
 ## ✨ Back-end & DB Stack ✨
 
-<div>
+<div align="center">
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?styleflat-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
 </div>
+<br>
 
-<br/>
-<br/>
-<br/>
-<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr1185)](https://solved.ac/kyr1185/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheonseunghyeon&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheonseunghyeon&theme=react)
