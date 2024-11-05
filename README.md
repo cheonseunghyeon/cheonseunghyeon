@@ -1,7 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6633FF&text=&animation=twinkling&height=100)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6633FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+C.S.H's+GitHub!👋)](https://git.io/typing-svg)
 
-## ✨ Front-end Stack ✨
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=6633FF&text=&animation=twinkling&height=150)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=45&duration=3500&pause=3&color=6633FF&center=false&vCenter=false&multiline=true&repeat=true&width=900&height=100&lines=Welcome+to+C.S.H's+GitHub!👋)](https://git.io/typing-svg)
+
+
+
+<h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=cheonseunghyeon&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<h2 align="center"> ✨ Front-end Stack ✨ </h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=style=flat&logo=html5&logoColor=white">
@@ -16,7 +27,7 @@
 </div>
 <br/>
 
-## ✨ Back-end & DB Stack ✨
+<h2 align="center"> ✨ Back-end & DB Stack ✨ </h2>
 
 <div align="center">
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
@@ -28,9 +39,20 @@
 </div>
 <br>
 
+<h2 align="center">🌟 Algorithm 🌟</h2>
+
+<div align="center">
+    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyr1185)](https://solved.ac/kyr1185/)
+
+
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+![JoEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonseunghyeon&show_icons=true&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheonseunghyeon&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheonseunghyeon&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheonseunghyeon&theme=react&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheonseunghyeon&theme=react)
+</div>
